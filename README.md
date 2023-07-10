@@ -1,5 +1,5 @@
 Cardápio Digital - Aplicação Frontend
-Este projeto é um simples simples protótipo de um Cardápio Digital desenvolvido durante meu tutorial no YouTube. A aplicação foi desenvolvida usando React, Typescript e React Query.
+Este projeto é um simples simples protótipo de um Cardápio Digital. A aplicação foi desenvolvida usando React, Typescript e React Query.
 
  ![image](https://github.com/Matheusmendesdev/project-react-java-with-springboot/assets/55557610/0a5366df-bf6b-47e8-b5aa-dbb5b77996c5)
  
