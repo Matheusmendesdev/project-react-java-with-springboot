@@ -48,9 +48,9 @@ export function CreateModal({ closeModal }: ModalProps){
             <div className="modal-body">
                 <h2>Cadastre um novo item para o Cardápio</h2>
                 <form>
-                    <Input label="title" value={title} updateValue={setTitle}/>
-                    <Input label="price" value={price} updateValue={setPrice}/>
-                    <Input label="image" value={image} updateValue={setImage}/>
+                    <Input label="Titulo" value={title} updateValue={setTitle}/>
+                    <Input label="Preço" value={price} updateValue={setPrice}/>
+                    <Input label="Imagem" value={image} updateValue={setImage}/>
                 </form>
                 <button onClick={submit} className="btn-secondary">
                     {isLoading ? "Postando..." : "Postar"}
